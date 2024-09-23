@@ -1,0 +1,4 @@
+# Ignore PHP logid
+*.log
+# Ignore config fail, kui API võti ei tohiks GitHubi minna
+config.php
