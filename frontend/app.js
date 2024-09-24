@@ -1,5 +1,5 @@
 document.getElementById('crawl-btn').addEventListener('click', function() {
-    fetch('http://localhost/backend/index.php?api_key=your-secret-api-key')
+    fetch('http://localhost:8000/index.php?api_key=my-super-secure-key-123')
         .then(response => response.json())
         .then(data => {
             const resultsDiv = document.getElementById('results');

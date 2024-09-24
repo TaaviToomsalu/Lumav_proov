@@ -1,2 +1,2 @@
-https://example-store.com
-https://another-shop.com
+https://www.amazon.com
+https://www.ebay.com
